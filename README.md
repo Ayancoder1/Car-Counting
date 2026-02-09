@@ -14,12 +14,8 @@ Perfect for:
 
 ## 🎥 Working Demo
 
-👉 Add your demo video link here:
+👉 Working video link here: https://github.com/Ayancoder1/Car-Counting/blob/main/Car%20Counting%20Project%20Working%20Video.mp4
 
-```
-## 🎥 Demo Video
-[Watch Working Video](PASTE_YOUR_VIDEO_LINK_HERE)
-```
 ---
 
 ## ✨ Features
